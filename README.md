@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Tableau dashboard explores hotel booking patterns, guest segments, cancellation behavior, and seasonal demand trends using hospitality booking data.
+This Tableau dashboard analyzes hotel booking patterns, guest segments, cancellation behavior, and seasonal demand trends using hospitality booking data.
 
 The goal of the project was to transform raw operational data into interactive visualizations that support business decision-making.
 
@@ -19,25 +19,36 @@ The goal of the project was to transform raw operational data into interactive v
 - SQL Server
 - Tableau
 
-## Dashboard Preview
-Executive view of hotel booking performance, cancellations, guest segments, and booking channels:
+## Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Dashboard Design
+- Customer Segmentation
+- KPI Analysis
+- Business Insight Generation
+- Interactive Data Visualization
+
+## Executive Dashboard
+
+**Overview of hotel booking performance, cancellations, guest segments, and booking channels:**
+
 ![Dashboard Screenshot](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Hotel%20Bookings%20Dashboard%20screenshot.png)
 
-Interactive Drill-Down - Cancellation Analysis:
+## Interactive Drill-Down - Cancellation Analysis:
 
-Selecting a market segment allows users to drill into cancellation behavior by segment and booking leadtime.
+Selecting a market segment allows users to drill into cancellation behavior by segment and booking lead time.
 
 ![Dashboard Drilldown](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Cancellation%20Drilldown%20screenshot.png)
 
-Interactive Drill-down - Repeat Guest Behavior:
+## Interactive Drill-Down - Repeat Guest Behavior:
 
 Dashboard actions enable exploration of booking patterns across guest types.
 
 ![Dashboard Drilldown](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Repeat%20Guest%20Drilldown%20screenshot.png)
 
-Additional Exploratory Analysis: Repeat Guest ADR
+## Additional Exploratory Analysis: Repeat Guest ADR
 
-A supplemental analysis was developed to investigate potential drivers behind the lower Average Daily Rate (ADR) observed among Repeat Guests during the primary dashboard analysis.:
+A supplemental analysis was developed to investigate potential drivers behind the lower Average Daily Rate (ADR) observed among Repeat Guests during the primary dashboard analysis.
 
 ![ADR Dashboard](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/ADR%20by%20Segment.png)
 
