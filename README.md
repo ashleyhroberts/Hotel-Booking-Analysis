@@ -1,5 +1,5 @@
 # Hotel Bookings and Guest Behavior Analytics Dashboard
-[Guest Booking Behavior and Cancellation Insights Dashboard](https://public.tableau.com/app/profile/ashley.roberts5700/viz/HotelBookings_DZV/Dashboard1?publish=yes)
+[Tableau Public: Guest Booking Behavior and Cancellation Insights Dashboard](https://public.tableau.com/app/profile/ashley.roberts5700/viz/HotelBookings_DZV/Dashboard1?publish=yes)
 
 ## Overview
 
@@ -21,7 +21,7 @@ The goal of the project was to transform raw operational data into interactive v
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](C:\Users\ashle\OneDrive\Documents\Data Analytics\Projects\Intercontinental Hotels\Hotel Bookings Dashboard screenshot.png)
+![Dashboard Screenshot](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Hotel%20Bookings%20Dashboard%20screenshot.png)
 
 ## Key Insights
 
@@ -37,6 +37,7 @@ The goal of the project was to transform raw operational data into interactive v
 
 - HotelBookingsDashboard.twbx
 - hotel_bookings.csv
+- SQL queries from Exploratory Data Analysis (EDA)
 - Dashboard screenshots
 
 ## About This Project
