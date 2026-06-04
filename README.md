@@ -20,9 +20,11 @@ The goal of the project was to transform raw operational data into interactive v
 - Tableau
 
 ## Dashboard Preview
-
+Executive view of hotel booking performance, cancellations, guest segments, and booking channels:
 ![Dashboard Screenshot](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Hotel%20Bookings%20Dashboard%20screenshot.png)
 
+Interactive Drill-Down: Cancellation Analysis
+![Dashboard Drilldown](
 ## Key Insights
 
 - OTA (Online Travel Agency) bookings exhibited higher cancellation rates than direct bookings.
