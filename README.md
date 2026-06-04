@@ -23,19 +23,20 @@ The goal of the project was to transform raw operational data into interactive v
 Executive view of hotel booking performance, cancellations, guest segments, and booking channels:
 ![Dashboard Screenshot](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Hotel%20Bookings%20Dashboard%20screenshot.png)
 
-Selecting a market segment allows users to drill into cancellation behavior by by segment and booking leadtime.
-
 Interactive Drill-Down - Cancellation Analysis:
+
+Selecting a market segment allows users to drill into cancellation behavior by segment and booking leadtime.
 
 ![Dashboard Drilldown](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Cancellation%20Drilldown%20screenshot.png)
 
-Dashboard actions enable exploration of booking patterns across guest types.
-
 Interactive Drill-down - Repeat Guest Behavior:
+
+Dashboard actions enable exploration of booking patterns across guest types.
 
 ![Dashboard Drilldown](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Repeat%20Guest%20Drilldown%20screenshot.png)
 
 Additional Exploratory Analysis: Repeat Guest ADR
+
 A supplemental analysis was developed to investigate potential drivers behind lower ADR among Repeat Guests observed during the primary dashboard analysis:
 
 ![ADR Dashboard](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/ADR%20by%20Segment.png)
