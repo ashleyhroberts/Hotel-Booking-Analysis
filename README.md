@@ -37,18 +37,20 @@ Dashboard actions enable exploration of booking patterns across guest types.
 
 Additional Exploratory Analysis: Repeat Guest ADR
 
-A supplemental analysis was developed to investigate potential drivers behind lower ADR among Repeat Guests observed during the primary dashboard analysis:
+A supplemental analysis was developed to investigate potential drivers behind the lower Average Daily Rate (ADR) observed among Repeat Guests during the primary dashboard analysis.:
 
 ![ADR Dashboard](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/ADR%20by%20Segment.png)
 
 ## Key Insights
 
+Exploratory analysis of the dashboard revealed several meaningful patterns in guest behavior and booking characteristics:
+
 - OTA (Online Travel Agency) bookings exhibited higher cancellation rates than direct bookings.
 - Longer booking lead times were associated with increased cancellations.
-- The Groups market segment had the highest cancellation rate with the Transient and Transient Party customer types contributing more than the others.
+- The Groups market segment had the highest cancellation rate, with the Transient and Transient Party customer types contributing more heavily than other segments.
 - Peak travel months (July and August) generally aligned with higher ADR.
-- Repeat guests paid substantially lower ADRs (Average Daily Rates), had shorter booking horizons and lower cancellation rates.
-- Repeat guests skewed heavily toward the Corporate bookings segment which had lower ADRs and first-time guests skewed towards OTAs wich had higher ADRs.
+- Repeat guests paid substantially lower ADRs, had shorter booking lead times, and exhibited lower cancellation rates.
+- Repeat guests skewed heavily toward the Corporate market segment, which generally had lower ADRs, while first-time guests skewed toward OTA channels, which exhibited higher ADRs.
 
 
 ## Files Included
@@ -60,4 +62,4 @@ A supplemental analysis was developed to investigate potential drivers behind lo
 
 ## About This Project
 
-This project was developed as part of my transition into data analytics, with a focus on transforming hospitality data into actionable business insights through visualization.
+This project was developed as part of my transition into data analytics, with a focus on transforming hospitality data into actionable business insights through visualization. It also provided an opportunity to practice exploratory analysis by investigating emerging questions discovered during the dashboard development process.
