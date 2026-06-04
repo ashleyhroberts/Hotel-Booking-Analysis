@@ -50,7 +50,7 @@ Dashboard actions enable exploration of booking patterns across guest types.
 
 A supplemental analysis was developed to investigate potential drivers behind the lower Average Daily Rate (ADR) observed among Repeat Guests during the primary dashboard analysis.
 
-![ADR Dashboard](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/ADR%20by%20Segment.png)
+![ADR Dashboard](https://github.com/ashleyhroberts/Hotel-Booking-Analysis/blob/main/screenshots/ADR%20by%20Segment.png)
 
 ## Key Insights
 
