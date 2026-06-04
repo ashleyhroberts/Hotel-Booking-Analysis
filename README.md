@@ -35,9 +35,10 @@ Interactive Drill-down - Repeat Guest Behavior:
 
 ![Dashboard Drilldown](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Repeat%20Guest%20Drilldown%20screenshot.png)
 
-Additional Exploratory 
+Additional Exploratory Analysis: Repeat Guest ADR
+A supplemental analysis was developed to investigate potential drivers behind lower ADR among Repeat Guests observed during the primary dashboard analysis:
 
-![ADR Dashboard](
+![ADR Dashboard](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/ADR%20by%20Segment.png)
 
 ## Key Insights
 
