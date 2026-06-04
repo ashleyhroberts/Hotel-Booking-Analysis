@@ -35,6 +35,10 @@ Interactive Drill-down - Repeat Guest Behavior:
 
 ![Dashboard Drilldown](https://github.com/ashleyhroberts/Hotel_Bookings_Analysis_Guest_Behavior/blob/main/screenshots/Repeat%20Guest%20Drilldown%20screenshot.png)
 
+Additional Exploratory 
+
+![ADR Dashboard](
+
 ## Key Insights
 
 - OTA (Online Travel Agency) bookings exhibited higher cancellation rates than direct bookings.
